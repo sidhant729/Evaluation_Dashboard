@@ -1,0 +1,17 @@
+{
+  "name": "evaluation_dashboard_server",
+  "version": "1.0.0",
+  "description": "This contains the server side of evaluation dashboard MERN project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sidhant Kumar Jha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "mongoose": "^8.2.1"
+  }
+}
